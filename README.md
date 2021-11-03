@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
@@ -75,4 +74,3 @@ Nest is [MIT licensed](LICENSE).
 =======
 # study-nestjs
 Nest.js study with Mash up 11th
->>>>>>> b83850f1cf750c244be589dc854a2a29b527c47d
