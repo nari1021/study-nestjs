@@ -1,11 +1,46 @@
+<<<<<<< HEAD
+# compiled output
+/dist
+/node_modules
+
+=======
+>>>>>>> b83850f1cf750c244be589dc854a2a29b527c47d
 # Logs
 logs
 *.log
 npm-debug.log*
+<<<<<<< HEAD
+pnpm-debug.log*
+=======
+>>>>>>> b83850f1cf750c244be589dc854a2a29b527c47d
 yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
+<<<<<<< HEAD
+# OS
+.DS_Store
+
+# Tests
+/coverage
+/.nyc_output
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+=======
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
@@ -311,3 +346,4 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/webstorm+all,linux,macos,windows,visualstudiocode,nodejs
+>>>>>>> b83850f1cf750c244be589dc854a2a29b527c47d
