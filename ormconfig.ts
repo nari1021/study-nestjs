@@ -1,4 +1,4 @@
-import {TypeOrmModuleOptions} from '@nestjs/typeorm';
+import { TypeOrmModuleOptions } from '@nestjs/typeorm';
 import * as path from 'path';
 
 const config: TypeOrmModuleOptions = {
