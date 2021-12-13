@@ -23,6 +23,8 @@ module.exports = {
   },
   ignorePatterns: ['.eslintrc.js', '**/migrations/*', '**/seed/*'],
   rules: {
+    'new-cap': 0,
+    'require-jsdoc': 0,
     strict: 0,
   },
 };
